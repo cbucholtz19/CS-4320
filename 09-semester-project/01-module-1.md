@@ -35,6 +35,7 @@
 6. [Currently open Augur Issues](https://github.com/chaoss/augur/issues)
 
 ### Candidate Ideas
+0. [Metrics Currently Under Development That You Could Create EndPoints For](https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit#gid=1004270137)
 1. Front end fixes
 2. Debugging and deploying machine learning workers (gsoc-dev branch)
 3. Ecosystem Level Queries and Analysis
