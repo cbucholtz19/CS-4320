@@ -15,8 +15,9 @@
     - https://deps.cloud/ -- They need a PyPi dependency collector at the moment
     - https://github.com/indeedeng/Mariner-Issue-Collector - Here, you could take a list of GitHub repositories from an Augur instance and gather information on issues recently opened. 
 
-## Resources for Getting Started and Requirements
+## Resources for Getting Started and Requirements (All groups need at least one use case, including the diagram. Some groups may be able to more easily express the details of their requirements narratively or in the spreadsheet template from module 3)
  - [Use Case Template](./_use-case-template.md)
+ - [Requirements Template from Module 3](https://github.com/MUSoftwareEngineering/CS-4320/blob/master/03-requirements/readings/requirements-template.xlsx)
 
 ### Augur Software
 ![](./images/augur-map.png)
