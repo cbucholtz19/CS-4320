@@ -1,4 +1,4 @@
-# Semester Project: Module 2
+# Semester Project: Sprint 2
 
 ## Deliverables  **SUBMIT ONLY ONE TIME FOR EACH TEAM**
 1. Design Document
