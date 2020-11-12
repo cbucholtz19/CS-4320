@@ -16,8 +16,8 @@ Here’s what I have as of right now. The Packers and Eagle’s may want to resc
 
 ### Monday:
     - 3 until 3:30 : Panthers
-    - 4 until 4:30 : Tigers 
     - 5 until 5:30 Giants
+    - 5:30 until 6 : Tigers
     - 6:30 until 7 : Bears
 
 ### Tuesday:
