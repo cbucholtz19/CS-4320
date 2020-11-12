@@ -1,46 +1,12 @@
-# Semester Project: Sprint 2
+# Semester Project
 
-## Deliverables  **SUBMIT ONLY ONE TIME FOR EACH TEAM**
-1. Design Document
-2. "Hello World version of your project (Prove the Tech end to end)" **Some groups may have short delays due to the server setup not being complete by me right now, but most groups have API and Frontend work that can be completed without a deployment environment at this stage** 
-3. Updates to Requirements as needed, based on my feedback. 
-4. Refer to Module 5 for Criteria for Design Documents. Consider your goals, scope, and the central importance of clear communication in plain english
-
-
-## Current Meeting Times: 
-Here’s what I have as of right now. The Packers and Eagle’s may want to reschedule my flub from today. I have all the time Zone’s aligned. If you want, or think you asked for a different time, let me know. I would like to keep these times consistent for the remainder of the semester. 
-
-### Sunday:
- - 1 - 1:30 - Packers
- - 3-3:30 - Eagles
-
-### Monday:
- - 3 - 3:30 - Panthers
- - 4-4:30 - Tigers 
- - 5 - Giants
- - 6:30 - 7 - Bears
-
-### Tuesday
- - Class 2-3:15 == Required
- - 4 - 4:30 - Vikings
- - 5:30 - 6 - Atoms
-
-### Wednesday
- - General Hours 6pm - 8pm 
-
-### Thursday
- - Class 2-3:15 == Required
-
-### Friday
- - 1:30pm - Golden Gophers 
- - 2 - 2:30 DC
- - 2:30 - 3 - Badgers
-
-
-### Saturday
- - Nothing as of Today
-
-## Server Resources 
+## Setting up student meeting times
+1. Each team will have a virtual deployment machine that I provide. It will have sufficient disk space and 12 GB of virtual RAM. 
+2. We will work together to discuss the requirements you will work on, and organize your projects. 
+3. Times I have set aside right now are: 
+    - Noon - 8pm Wednesday, October 28
+    - 11am - 5pm Thursday, October 29
+    - Noon - 6pm Sunday, November 1
 4. You will each have an Augur Database at your disposal, and installed for you in your VM. It will have data from a set of 92 Scientific Open Source Software Projects. There are three repositories you can use in different combinations to address the requirements for your project. 
     - https://github.com/chaoss/augur (required)
     - https://github.com/chaoss/augur-community-reports 
@@ -49,8 +15,9 @@ Here’s what I have as of right now. The Packers and Eagle’s may want to resc
     - https://deps.cloud/ -- They need a PyPi dependency collector at the moment
     - https://github.com/indeedeng/Mariner-Issue-Collector - Here, you could take a list of GitHub repositories from an Augur instance and gather information on issues recently opened. 
 
-## Resources for Getting Started and Requirements
+## Resources for Getting Started and Requirements (All groups need at least one use case, including the diagram. Some groups may be able to more easily express the details of their requirements narratively or in the spreadsheet template from module 3)
  - [Use Case Template](./_use-case-template.md)
+ - [Requirements Template from Module 3](https://github.com/MUSoftwareEngineering/CS-4320/blob/master/03-requirements/readings/requirements-template.xlsx)
 
 ### Augur Software
 ![](./images/augur-map.png)
@@ -69,6 +36,7 @@ Here’s what I have as of right now. The Packers and Eagle’s may want to resc
 6. [Currently open Augur Issues](https://github.com/chaoss/augur/issues)
 
 ### Candidate Ideas
+0. [Metrics Currently Under Development That You Could Create EndPoints For](https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit#gid=1004270137)
 1. Front end fixes
 2. Debugging and deploying machine learning workers (gsoc-dev branch)
 3. Ecosystem Level Queries and Analysis
