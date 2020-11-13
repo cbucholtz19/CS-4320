@@ -32,7 +32,7 @@ Here’s what I have as of right now.
     - Class 2 until 3:15 : Required
 
 ### Friday
-    - 1:30pm until 2pm :  Golden Gophers 
+    - 1:30pm until 2pm :  Lions
     - 2 until 2:30 : DC
     - 2:30 until 3 : Badgers
 
