@@ -8,7 +8,7 @@
 
 
 ## Current Meeting Times: 
-Here’s what I have as of right now. The Packers and Eagle’s may want to reschedule my flub from today. I have all the time Zone’s aligned. If you want, or think you asked for a different time, let me know. I would like to keep these times consistent for the remainder of the semester. 
+Here’s what I have as of right now. 
 
 ### Sunday:
     - 1 until 1:30 : Packers
