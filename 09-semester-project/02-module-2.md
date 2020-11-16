@@ -11,7 +11,6 @@
 Here’s what I have as of right now. 
 
 ### Sunday:
-    - 1 until 1:30 : Packers
     - 3 until 3:30 : Eagles
 
 ### Monday:
@@ -30,6 +29,7 @@ Here’s what I have as of right now.
 
 ### Thursday
     - Class 2 until 3:15 : Required
+    - 5 until 5:30 : Packers
 
 ### Friday
     - 1:30pm until 2pm :  Lions
